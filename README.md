@@ -14,6 +14,7 @@ Archivo: cena_de_los_filosofos.cpp
 Implementación del problema de los filósofos (con camarero).
 
 Enunciado del problema:
+
   Cinco filósofos se sientan alrededor de una mesa y pasan su vida cenando y pensando. Cada filósofo tiene un plato de fideos y
   un tenedor a la izquierda de su plato. Para comer los fideos son necesarios dos tenedores y cada filósofo sólo puede tomar 
   los que están a su izquierda y derecha. Si cualquier filósofo toma un tenedor y el otro está ocupado, se quedará esperando, 
