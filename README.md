@@ -6,9 +6,11 @@ ejemplo: mpirun -np 11 ./cena_de_los_filosofos
 Alberto Robles Hernandez
 
 sistemas concurrentes y Distribuidos.
+
 Práctica 3. Implementación de algoritmos distribuidos con MPI
 
 Archivo: cena_de_los_filosofos.cpp
+
 Implementación del problema de los filósofos (con camarero).
 
 Enunciado del problema:
